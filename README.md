@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayush5125R/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayush5125R/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
 ## Design
 |  |
 | ------- |
@@ -27,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
