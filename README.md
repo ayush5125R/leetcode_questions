@@ -39,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayush5125R/leetcode_questions/tree/master/0029-divide-two-integers) |
+| [0371-sum-of-two-integers](https://github.com/ayush5125R/leetcode_questions/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayush5125R/leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ayush5125R/leetcode_questions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0371-sum-of-two-integers](https://github.com/ayush5125R/leetcode_questions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
