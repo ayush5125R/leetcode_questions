@@ -79,8 +79,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayush5125R/leetcode_questions/tree/master/0344-reverse-string) |
+| [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush5125R/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
