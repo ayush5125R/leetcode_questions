@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush5125R/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/ayush5125R/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ayush5125R/leetcode_questions/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/ayush5125R/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayush5125R/leetcode_questions/tree/master/0344-reverse-string) |
 ## Math
 |  |
