@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayush5125R/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/ayush5125R/leetcode_questions/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
 | [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ayush5125R/leetcode_questions/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
 ## Quicksort
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush5125R/leetcode_questions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
