@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/ayush5125R/leetcode_questions/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush5125R/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush5125R/leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayush5125R/leetcode_questions/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/ayush5125R/leetcode_questions/tree/master/0371-sum-of-two-integers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush5125R/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
