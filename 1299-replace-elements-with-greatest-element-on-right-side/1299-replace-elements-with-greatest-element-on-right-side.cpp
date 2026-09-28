@@ -14,7 +14,7 @@ public:
 
             }
         }
-        k[n-1]=-1;
+        
         return k;
         
     }
