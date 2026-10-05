@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ayush5125R/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/ayush5125R/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ayush5125R/leetcode_questions/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/ayush5125R/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ayush5125R/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayush5125R/leetcode_questions/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/ayush5125R/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ayush5125R/leetcode_questions/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/ayush5125R/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
