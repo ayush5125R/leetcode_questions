@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush5125R/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush5125R/leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
+| [1572-matrix-diagonal-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayush5125R/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
+| [1572-matrix-diagonal-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1572-matrix-diagonal-sum) |
 ## Design
 |  |
 | ------- |
