@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayush5125R/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush5125R/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0414-third-maximum-number](https://github.com/ayush5125R/leetcode_questions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ayush5125R/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/ayush5125R/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ayush5125R/leetcode_questions/tree/master/0724-find-pivot-index) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
