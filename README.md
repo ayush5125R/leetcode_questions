@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ayush5125R/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush5125R/leetcode_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayush5125R/leetcode_questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1314-matrix-block-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/1314-matrix-block-sum) |
@@ -80,15 +81,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ayush5125R/leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush5125R/leetcode_questions/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayush5125R/leetcode_questions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
+| [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayush5125R/leetcode_questions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
 ## Greedy
 |  |
 | ------- |
