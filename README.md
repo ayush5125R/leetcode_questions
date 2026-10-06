@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayush5125R/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayush5125R/leetcode_questions/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/ayush5125R/leetcode_questions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayush5125R/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1392-longest-happy-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/1392-longest-happy-prefix) |
 ## Dynamic Programming
