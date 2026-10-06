@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ayush5125R/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/ayush5125R/leetcode_questions/tree/master/1122-relative-sort-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayush5125R/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
+| [0205-isomorphic-strings](https://github.com/ayush5125R/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayush5125R/leetcode_questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayush5125R/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
