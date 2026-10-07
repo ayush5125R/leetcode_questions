@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ayush5125R/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayush5125R/leetcode_questions/tree/master/0075-sort-colors) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ayush5125R/leetcode_questions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ayush5125R/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ayush5125R/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ayush5125R/leetcode_questions/tree/master/0605-can-place-flowers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
