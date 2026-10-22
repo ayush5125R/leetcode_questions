@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayush5125R/leetcode_questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayush5125R/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayush5125R/leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ayush5125R/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/ayush5125R/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayush5125R/leetcode_questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayush5125R/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush5125R/leetcode_questions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/ayush5125R/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ayush5125R/leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ayush5125R/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayush5125R/leetcode_questions/tree/master/0242-valid-anagram) |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush5125R/leetcode_questions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayush5125R/leetcode_questions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayush5125R/leetcode_questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
